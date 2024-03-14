@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e184426-4bfb-40cd-a83f-40f1fc9ba943" name="Changes" comment="start setting">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="9e184426-4bfb-40cd-a83f-40f1fc9ba943" name="Changes" comment="start setting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,8 +37,6 @@
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mike7643"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings">
@@ -117,7 +112,7 @@
       <workItem from="1710421784835" duration="1575000" />
       <workItem from="1710423369870" duration="56000" />
       <workItem from="1710423513729" duration="138000" />
-      <workItem from="1710423663257" duration="2219000" />
+      <workItem from="1710423663257" duration="2537000" />
     </task>
     <task id="LOCAL-00001" summary="start setting">
       <option name="closed" value="true" />
